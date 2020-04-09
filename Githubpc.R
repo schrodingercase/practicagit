@@ -7,7 +7,7 @@ library(htmltab)
 coronavirus = htmltab(doc = linkPage, which =linkPath, rm_nodata_cols = F) 
 
 ###Limpieza
-head(coronavirus)
+head(coronavirus) 
 coronavirus = coronavirus[,c(2:5)]
 
 ###Cambiando los nombres
@@ -32,3 +32,4 @@ coronavirus = coronavirus %>%
 View(coronavirus)
 
 
+#Nuevos cambios
