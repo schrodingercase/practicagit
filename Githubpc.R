@@ -33,3 +33,7 @@ View(coronavirus)
 
 
 #Nuevos cambios
+
+##Cambios pendientes a realizar
+
+mean(coronavirus$Casos)
