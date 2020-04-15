@@ -31,9 +31,5 @@ coronavirus = coronavirus %>%
 
 View(coronavirus)
 
-
-#Nuevos cambios
-
-##Cambios pendientes a realizar
-
-mean(coronavirus$Casos)
+#Nuevo comentario
+#Versión actualizada al 15 de abril
